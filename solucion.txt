@@ -1,0 +1,8 @@
+categoria =
+bonoxpresentismo =
+bonoxresultados =
+faltas =
+
+
+def sueldodePepe(categoria,bonoxpresentismo,bonoxresultados):
+    return categoria + bonoxpresentismo + bonoxresultados
